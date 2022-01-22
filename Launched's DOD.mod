@@ -1,0 +1,6 @@
+name = "Launched's Fucky Wucky DOD mod"
+path = "mod/Divergences of Darkness Launched Version"
+user_dir = "DoD"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history/provinces"
